@@ -1,8 +1,9 @@
 public class Test {
 
 	public static void main(String[] args) {
-		System.out.print("Hello World");
-		System.out.print("Ceci est un test");
+		System.out.println("Hello World");
+		System.out.println("Ceci est un test");
+		System.out.println("Test eclipse");
 	}
 
 }
