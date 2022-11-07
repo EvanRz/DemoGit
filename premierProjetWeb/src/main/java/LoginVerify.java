@@ -40,6 +40,7 @@ public class LoginVerify extends HttpServlet {
 			System.out.println("Les id sont corrects");
 		}else {
 			System.out.println("Erreur id");
+			System.out.println("OEHGOIERHOGBOEBUIGZGELKBUIVOEHNPEVHIOP");
 		}
 	}
 
